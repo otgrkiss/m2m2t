@@ -1,0 +1,23 @@
+{
+  "kgservice": {
+    "uuid": "",
+    "user": "",
+    "password":"",
+    "url": "",
+    "verify": true
+  },
+  "ticketsystem": {
+    "post1": {
+      "url": "",
+      "header": "",
+      "username": "",
+      "password": ""
+    },
+    "post2": {
+      "url": ""
+    },
+    "body": {
+      "tempid": ""
+    }
+  }
+}
