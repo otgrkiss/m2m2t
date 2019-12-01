@@ -4,20 +4,24 @@
     "user": "",
     "password":"",
     "url": "",
-    "verify": true
+    "timeout":"",
+    "verify":""
   },
   "ticketsystem": {
     "post1": {
       "url": "",
       "header": "",
       "username": "",
-      "password": ""
+      "password": "",
+      "timeout": "",
+      "verify": ""
     },
     "post2": {
-      "url": ""
+      "url": "",
+      "verify":""
     },
     "body": {
-      "tempid": ""
+      tempid:""
     }
   }
 }
